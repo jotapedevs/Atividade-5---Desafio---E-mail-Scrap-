@@ -1,0 +1,8 @@
+/Users/miguelamaral/Documents/dev/scrapping-challenge/src/main/java/com/example/scrappingchallenge/ScrappingChallengeApplication.java
+/Users/miguelamaral/Documents/dev/scrapping-challenge/src/main/java/com/example/scrappingchallenge/config/WebClientConfig.java
+/Users/miguelamaral/Documents/dev/scrapping-challenge/src/main/java/com/example/scrappingchallenge/controllers/EmailController.java
+/Users/miguelamaral/Documents/dev/scrapping-challenge/src/main/java/com/example/scrappingchallenge/controllers/FakeStoreController.java
+/Users/miguelamaral/Documents/dev/scrapping-challenge/src/main/java/com/example/scrappingchallenge/controllers/ScrapingController.java
+/Users/miguelamaral/Documents/dev/scrapping-challenge/src/main/java/com/example/scrappingchallenge/services/EmailService.java
+/Users/miguelamaral/Documents/dev/scrapping-challenge/src/main/java/com/example/scrappingchallenge/services/FakeStoreService.java
+/Users/miguelamaral/Documents/dev/scrapping-challenge/src/main/java/com/example/scrappingchallenge/services/ScrapingService.java
